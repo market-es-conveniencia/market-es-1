@@ -107,6 +107,7 @@ section {
     border-radius: 50px;
     transition: var(--transicao-padrao);
     box-shadow: 0 4px 15px rgba(11, 94, 215, 0.25); /* Sombra mais suave */
+    text-decoration: none;
 }
 
 .btn-azul-primary:hover,
